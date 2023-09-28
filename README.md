@@ -26,7 +26,8 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README.
+<img src='http://i.imgur.com/a/B44k6P4.gif' title='Video Demo' width='' alt='Video Demo' /> 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/B44k6P4"  ><a href="//imgur.com/a/B44k6P4">Hevander Da Costa</a></blockquote>
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
