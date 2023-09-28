@@ -1,6 +1,4 @@
-# ios101-project2-wordle-starter
-https://imgur.com/a/B44k6P4.gif
-# Project 2 - *Name of App Here*
+# Project 2 - *ios101-project2-wordle-starter*
 
 Submitted by: **Hevander Da Costa**
 
