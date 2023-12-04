@@ -25,6 +25,8 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
+<img src='https://i.imgur.com/J5sEzo4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README.
 <img src='http://i.imgur.com/a/B44k6P4.gif' title='Video Demo' width='' alt='Video Demo' /> 
