@@ -25,9 +25,11 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
+![Hevander Da Costa Wordle - Imgur](https://github.com/Hevander27/WordleClone/assets/45948489/3913bc05-f7f8-4275-8c54-e1331abb90c4)
+
+
+
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/B44k6P4"  ><a href="//imgur.com/a/B44k6P4">Hevander Da Costa</a></blockquote>
-
-
 <img src='https://i.imgur.com/J5sEzo4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
